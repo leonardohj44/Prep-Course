@@ -154,7 +154,7 @@ describe('todosIguales(arreglo)', function() {
     expect(todosIguales([20, 20, 20, 20 ])).toBe(true);
     expect(todosIguales([97, 100, 190, 9])).toBe(false);
    
-    expect(todosIguales([230, 230, 230, 230 ])).toBe(true);
+    expect(todosIguales([230, 230, 230, 230])).toBe(true);
   });
 });
 
